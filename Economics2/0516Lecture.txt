@@ -1,0 +1,113 @@
+①　効用最大化の条件 MRS = p/q を用いる解放
+→MRS = p / q
+	→MRS = MUx / MUy
+	→MUx = a/ax ・U(x,y) = y
+	→MUy = a/ay ・U(x,y) = x U(x,y) = y・x
+		→MRS = MUx/MUy = y/x
+			→MRS = p / q ←　→　y / x = p / q ...①
+				→　px + qy = I ....②
+MUx / MUy = y / x = p / q = λ 
+				→①　を　②　に代入　2px = I
+				x' = I /2p
+				→①　に代入ー y' = px/q = I/2q
+②　予算制約式を効用関数に代入する方法
+	→ px + qy = I　より、　y = -p/q・x + I/q (ただし 0 =< x =< I / p )
+				→この式を　U (x,y) = x ・yに代入
+	→ U(x,y) = x (-p/q・x + I/q) 
+		 = - p / q ・x・(x - I / p)
+	→ U(x,y) = U (x, -p/q・x + I/q)
+////全体を微分した
+	MUx + MUy ・(-p / q) = 0
+	MUx = MUy・(p/q)
+
+③　１円あたりの限界効用の均等化条件を用いる方法
+	
+MUx / p = MUy / q = λ
+
+y / p = x / q 
+
+& px + qy = I
+
+MUx = λ ・p  ( y = λp) = I /2q
+
+MUy = λ ・q  ( x = λq) = I /2p
+
+px + qy = I  (λ・pq + λ・pq = I )
+
+λ = I / 2 p q
+
+ラグランジュ乗数法
+→L(x,y,z) = U(x,y) +  λ(I - px - qy)
+//以下は微分した時の条件
+	→MUx - λp = 0
+	→MUy - λq = 0
+		→ I - px - qy = 0
+→これにより、③ の最後の式の完成形と一緒になる
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
